@@ -1,5 +1,5 @@
-body {
-    padding: 5px;
+.root{
+    padding: 0px;
     margin-top: 50px;
     margin-left: 50px;
     background-color: #d2f8ff;
@@ -7,3 +7,13 @@ body {
     font-family: Arial, sans-serif;
     font-size: 15px;
     border: 7px solid #000000;
+
+    .video{
+    border-style: solid;
+    border-width: 5px;
+    border-color: #ff0000;
+    margin-inline: 205px;
+    margin-bottom: 10px;
+
+    };
+};
