@@ -1,12 +1,12 @@
 .root {
-    padding: 0px;
-    height: 1300px;
-    margin-top: 50px;
+    padding: 10px;
+    height: auto;
     background-color: #d2f8ff;
     text-align: center;
     font-family: 'Poppins', sans-serif;
     font-size: 15px;
     border: 7px solid #000000;
+
 }
 
 .video1 {
